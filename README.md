@@ -1,5 +1,7 @@
-# Analysis of Traditional NER and LLMs for PICO Annotation in Medical Research 🔬
+# Analysis of Traditional NER and Generative LLMs for PICO Annotation in Medical Research 🔬
 Bachelor Project Artificial Intelligence @ Vrije Universiteit Amsterdam 🎓 
+
+![Poster](https://github.com/mrkbrts/vu-bpai/blob/main/M%20Bartos%20-%20BPAI%20Poster.png)
 
 ### About the Research Paper 📑
 **Abstract:** This study compares the performance of Bidirectional Long Short-Term Memory (BiLSTM) networks and Generative Pre-trained Transformers (GPT) for extracting and annotating PICO (Population, Intervention, Comparison, Outcome) elements from medical research papers. Using the EBM-NLP dataset and a secondary dataset of full-length medical papers, the BiLSTM-CRF model was trained on tokenized text sequences, while the GPT-4o model utilized prompt engineering. 
@@ -22,6 +24,3 @@ The repository is organized as follows:
    
 ### EBM-NLP Dataset 💽
 The dataset used for the main experiment can be downloaded from [here](https://github.com/bepnye/EBM-NLP/tree/master).
-
-### Scientific Poster 👀
-![Poster](https://github.com/mrkbrts/vu-bpai/blob/main/M%20Bartos%20-%20BPAI%20Poster.png)

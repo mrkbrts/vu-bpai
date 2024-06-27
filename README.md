@@ -19,7 +19,7 @@ The repository is organized as follows:
   - **main-experiment/:** Code and generated data for the primary experiment comparing NLP models.
   - **secondary-experiment/:** Code and generated data for the secondary experiment on full-length papers.
     - **full-length-papers/:** The manually annotated data consiting of 3 medical papers annotated in their full length.
-- **Comparative Evaluation of NER and LLMs for PICO Extraction - M Bartos.pdf:** Full text of the research paper.
+- **Comparative Comparison of Traditional NER and Generative Large Language Models for PICO Extraction in Medical Research - M Bartos - Thesis.pdf:** Full text of the research paper.
 - **M Bartos - BPAI Poster.png:** Scientific poster summarizing key findings.
    
 ### EBM-NLP Dataset 💽
